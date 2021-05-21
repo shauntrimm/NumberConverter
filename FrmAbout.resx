@@ -1,0 +1,95 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="lblDescription.Text" xml:space="preserve">
+    <value>Welcome to Number Converter!
+
+The goal of this application is to make converting numbers to different bases 
+convenient and easy to do.
+
+In order to convert a number, simply type it into the search box, choose the
+base of the number and hit the convert button.
+
+The accepted input characters include numeric characters, the characters
+(a, A, b, B, c, C, d, D, e, E, F, f) for hex numbers equal to 10 and above, 
+and - for a negative sign, which needs to always be at the 
+beginning of the input. This means that commas for separating groups of
+numbers such as in 1,000, which would be entered as 1000. This also means
+that numbers that contain decimal places will not be accepted as input as well.
+
+For hexadecimal based input, do not include the 0x prefix in the input string, this will
+cause your input to be determined as invalid.
+
+After conversion is complete you are free to input another number/base
+combination, and the previous results will remain until you press the convert
+button again.
+
+This application supports 64-Bit Signed integers, therefore the top, and bottom
+bounds for input for all types are as follows.
+
+Decimal : 9223372036854775807 and -9223372036854775807
+
+Binary: 111111111111111111111111111111111111111111111111111111111111111
+and -111111111111111111111111111111111111111111111111111111111111111
+
+Hexadecimal: 7FFFFFFFFFFFFFFF and -7FFFFFFFFFFFFFFF
+
+Octal: 777777777777777777777, and -777777777777777777777</value>
+  </data>
+</root>

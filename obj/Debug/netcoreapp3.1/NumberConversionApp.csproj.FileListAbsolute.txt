@@ -1,0 +1,16 @@
+C:\Users\shaun\source\repos\NumberConversionApp\bin\Debug\netcoreapp3.1\NumberConversionApp.exe
+C:\Users\shaun\source\repos\NumberConversionApp\bin\Debug\netcoreapp3.1\NumberConversionApp.deps.json
+C:\Users\shaun\source\repos\NumberConversionApp\bin\Debug\netcoreapp3.1\NumberConversionApp.runtimeconfig.json
+C:\Users\shaun\source\repos\NumberConversionApp\bin\Debug\netcoreapp3.1\NumberConversionApp.runtimeconfig.dev.json
+C:\Users\shaun\source\repos\NumberConversionApp\bin\Debug\netcoreapp3.1\NumberConversionApp.dll
+C:\Users\shaun\source\repos\NumberConversionApp\bin\Debug\netcoreapp3.1\NumberConversionApp.pdb
+C:\Users\shaun\source\repos\NumberConversionApp\obj\Debug\netcoreapp3.1\NumberConversionApp.csprojAssemblyReference.cache
+C:\Users\shaun\source\repos\NumberConversionApp\obj\Debug\netcoreapp3.1\NumberConversionApp.FrmConversion.resources
+C:\Users\shaun\source\repos\NumberConversionApp\obj\Debug\netcoreapp3.1\NumberConversionApp.csproj.GenerateResource.cache
+C:\Users\shaun\source\repos\NumberConversionApp\obj\Debug\netcoreapp3.1\NumberConversionApp.AssemblyInfoInputs.cache
+C:\Users\shaun\source\repos\NumberConversionApp\obj\Debug\netcoreapp3.1\NumberConversionApp.AssemblyInfo.cs
+C:\Users\shaun\source\repos\NumberConversionApp\obj\Debug\netcoreapp3.1\NumberConversionApp.dll
+C:\Users\shaun\source\repos\NumberConversionApp\obj\Debug\netcoreapp3.1\NumberConversionApp.pdb
+C:\Users\shaun\source\repos\NumberConversionApp\obj\Debug\netcoreapp3.1\NumberConversionApp.genruntimeconfig.cache
+C:\Users\shaun\source\repos\NumberConversionApp\obj\Debug\netcoreapp3.1\NumberConversionApp.FrmAbout.resources
+C:\Users\shaun\source\repos\NumberConversionApp\obj\Debug\netcoreapp3.1\NumberConversionApp.csproj.CoreCompileInputs.cache

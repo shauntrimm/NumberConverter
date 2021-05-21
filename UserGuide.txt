@@ -1,0 +1,36 @@
+Welcome to Number Converter!
+
+The goal of this application is to make converting numbers to different bases 
+convenient and easy to do.
+
+In order to convert a number, simply type it into the search box, choose the
+base of the number and hit the convert button.
+
+The accepted input characters include numeric characters, the characters
+(a, A, b, B, c, C, d, D, e, E, F, f) for hex numbers equal to 10 and above, 
+and - for a negative sign, which needs to always be at the 
+beginning of the input. This means that commas for separating groups of
+numbers such as in 1,000, which would be entered as 1000. This also means
+that numbers that contain decimal places will not be accepted as input as well.
+
+For hexadecimal based input, do not include the 0x prefix in the input string, this will
+cause your input to be determined as invalid.
+
+After conversion is complete you are free to input another number/base
+combination, and the previous results will remain until you press the convert
+button again.
+
+This application supports 64-Bit Signed integers, therefore the top, and bottom
+bounds for input for all types are as follows.
+
+Decimal : 9223372036854775807 and -9223372036854775807
+
+Binary: 111111111111111111111111111111111111111111111111111111111111111
+and -111111111111111111111111111111111111111111111111111111111111111
+
+Hexadecimal: 7FFFFFFFFFFFFFFF and -7FFFFFFFFFFFFFFF
+
+Octal: 777777777777777777777, and -777777777777777777777
+
+In order to view this menu inside of the application at any time, you can click the
+button labeled with a question mark (?). 
